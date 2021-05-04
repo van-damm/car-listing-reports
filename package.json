@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Analysis of Car Listing CSV Files",
   "engines": {
-    "node": "14.x" }
+    "node": "14.x" 
+  },
   "main": "index.ts",
   "scripts": {
     "build": "tsc",
