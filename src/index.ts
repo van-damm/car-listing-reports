@@ -19,7 +19,6 @@ async function start() {
 		average_selling_price: ConvertCurrency(generateAveragePriceTop30(contactObjectArray, listingsObjectArray))
 	}]);
 
-	//@ts-ignore
 	const top5MostContactedListings : MonthResult[] = generateTop5Contacted(contactObjectArray, listingsObjectArray);
 
 	console.log('The Top 5 most contacted listings per Month:');
