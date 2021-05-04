@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-	"start": "ts-node src/index.ts"
+	"start": "ts-node src/index.ts",
+	"build": "tsc",
+  	"postinstall": "npm run build"
   },
   "author": "",
   "license": "ISC",
