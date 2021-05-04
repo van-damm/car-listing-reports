@@ -10,7 +10,7 @@
     "build": "tsc",
     "start": "ts-node src/index.ts",
     "dev": "nodemon -e js node src/index.js"
-  },
+  }
   "author": "",
   "license": "ISC",
   "dependencies": {
