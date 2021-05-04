@@ -4,13 +4,13 @@
   "description": "",
   "engines": {
     "node": "14.x",
-  },
+  }
   "main": "index.ts",
   "scripts": {
     "build": "tsc",
     "start": "ts-node src/index.ts",
     "dev": "nodemon -e js node src/index.js"
-  }
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
