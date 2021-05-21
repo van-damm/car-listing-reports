@@ -9,7 +9,7 @@ TypeScript project for analyzing and displaying two .CSV files in a web dashboar
 ## 💡 Features
 - Average Listing Price per Seller
 - % Distribution of Car Makes
-- Average Price of Top 30%
+- Average Price of Top 30% Listings
 - Monthly Top 5 Most Contacted
 
 ## 🚩 Installation Steps
