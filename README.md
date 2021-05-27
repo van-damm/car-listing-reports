@@ -1,5 +1,5 @@
 # Car Listing Reports
-TypeScript project for analyzing and showcasing two .CSV files in a web dashboard. The .CSV files contain online listing information on car sales.
+This is TypeScript project for analyzing and showcasing two .CSV files in a web dashboard. The .CSV files contain online listing information on car sales.
 
 ## 💻 Technologies
 - [Node.js](https://nodejs.org/en/)
