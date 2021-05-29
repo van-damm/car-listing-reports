@@ -45,7 +45,7 @@ export async function getCSVListings(): Promise<Listings[]> {
 				})
 	
 		} catch (e) {
-			console.log("Error with the CSV file: ");
+			console.log("Error with CSV file: ");
 			reject(e);
 		}
 	
